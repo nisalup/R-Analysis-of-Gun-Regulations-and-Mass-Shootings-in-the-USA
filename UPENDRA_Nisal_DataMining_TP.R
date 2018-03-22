@@ -1,4 +1,8 @@
-#PART 1 LOADING AND ORGANIZING DATA
+#UPENDRA Nisal
+#Data Mining Project - R Code
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#LOADING AND ORGANIZING DATA
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #I need the following packages
 #install.packages("dplyr")
